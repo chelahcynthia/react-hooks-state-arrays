@@ -5,7 +5,7 @@
 - Understand how to work with arrays in state
 - Add elements to arrays in state
 - Remove elements from arrays in state
-- Update elements in arrays in state
+<!-- - Update elements in arrays in state
 - Conditionally render elements from arrays in state
 
 ## Introduction
@@ -19,7 +19,7 @@ In this lesson, we'll learn some common patterns for creating new arrays when we
 need to add elements to an array in state, remove elements from arrays in state,
 and update individual items in arrays in state.
 
-Fork and clone this lesson so you can code along!
+Fork and clone this lesson so you can code along! -->
 
 ## Understand Why We Can't Mutate State
 
